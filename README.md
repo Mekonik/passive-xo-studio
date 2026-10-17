@@ -56,7 +56,7 @@ Because the entire application is self-contained in a single HTML file with zero
 
 ## 🧮 Mathematical Engine
 
-* **2-Port ABCD Chain Matrices:** Every series and shunt building block is modeled as a complex $2 \times 2$ transmission matrix $\begin{bmatrix} A & B \\ C & D \end{bmatrix}$ loaded by the driver's complex impedance curve $Z_{\text{load}}(f)$, capturing real-world voltage divider interaction between the crossover and the reactive voice coil load.
+* **2-Port ABCD Chain Matrices:** Every series and shunt building block is modeled as a complex $2 \times 2$ transmission matrix $$\begin{bmatrix} A & B \\ C & D \end{bmatrix}$$ loaded by the driver's complex impedance curve $Z_{\text{load}}(f)$, capturing real-world voltage divider interaction between the crossover and the reactive voice coil load.
 * **Realistic Inductor $R_{\text{dc}}$ Scaling:** Automatically estimates DC resistance as a function of inductance ($\text{mH}$) and wire gauge, or allows fixed manual $\text{m}\Omega$ entry.
 
 ---
