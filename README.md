@@ -8,8 +8,7 @@ Automated passive crossover designer &amp; tournament optimizer for DIY loudspea
 
 It bridges the gap between raw acoustic measurements (**.FRD** / **.ZMA** from REW or manufacturer datasheets) and a finished, ready-to-solder passive crossover—evaluating thousands (or millions) of mixed circuit topologies in seconds.
 
-🔗 **[Live Web App Demo (GitHub Pages)](https://YOUR-USERNAME.github.io/passive-xo-studio/)** *(Optional: Enable GitHub Pages to use)*
-
+🔗 **[Live Web App Demo (GitHub Pages)](https://Mekonik.github.io/passive-xo-studio/)**
 ---
 
 ## ✨ Key Features
